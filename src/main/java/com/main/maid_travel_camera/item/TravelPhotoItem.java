@@ -75,11 +75,11 @@ public class TravelPhotoItem extends ItemPhoto {
         String travelLocation = travelTag.contains("TravelLocation") ? travelTag.getString("TravelLocation") : "unknown";
 
         if (now - start < duration) {
-            if (worldIn.isClientSide) {
-                player.sendSystemMessage(Component.literal("女仆还在旅行中，请耐心等待~"));
-            }
-            return InteractionResult.FAIL;
-         }
+        if (worldIn.isClientSide) {
+        player.sendSystemMessage(Component.translatable("maid_travel.traveling"));
+        }
+        return InteractionResult.FAIL;
+        }
         
         CompoundTag maidData = getMaidData(photo);
 

@@ -7,7 +7,9 @@
   "tooltip.maid_travel_camera.photo.location": "Travel Location: %s",
   "tooltip.maid_travel_camera.photo.completed": "Travel Completed!",
   "tooltip.maid_travel_camera.photo.missing_data": "Maid travel data missing",
-
+  
+  "maid_travel.traveling": "The maid is still traveling, please wait patiently~",
+  
   "time.minutes_seconds": "%s min %s sec",
   "time.seconds": "%s sec",
 
