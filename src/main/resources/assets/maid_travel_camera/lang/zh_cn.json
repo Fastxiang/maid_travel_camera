@@ -1,0 +1,22 @@
+{
+  "item.maid_travel_camera.travel_camera": "旅行相机",
+  "item.maid_travel_camera.travel_photo": "旅行照片",
+
+  "tooltip.maid_travel_camera.photo.traveling": "旅行中: 已经过 %s / 需要旅行 %s",
+  "tooltip.maid_travel_camera.photo.location": "旅行地点: %s",
+  "tooltip.maid_travel_camera.photo.completed": "旅行已完成！",
+  "tooltip.maid_travel_camera.photo.missing_data": "女仆旅行数据缺失",
+
+  "time.minutes_seconds": "%s分%s秒",
+  "time.seconds": "%s秒",
+
+  "travel_location.unknown": "未知地点",
+  "travel_location.debug": "测试",
+  "travel_location.red_mansion": "红魔馆花园",
+  "travel_location.bamboo_forest": "迷途竹林",
+  "travel_location.hot_spring": "妖怪温泉",
+  "travel_location.forest": "森林",
+  "travel_location.desert": "沙漠",
+  "travel_location.village": "村庄",
+  "travel_location.nether": "下界"
+}

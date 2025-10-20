@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "touhou_little_maid:camera",
+      "nbt": "{Damage:0}"
+    },
+    {
+      "item": "minecraft:map"
+    }
+  ],
+  "result": {
+    "item": "maid_travel_camera:travel_camera",
+    "count": 1
+  }
+}
