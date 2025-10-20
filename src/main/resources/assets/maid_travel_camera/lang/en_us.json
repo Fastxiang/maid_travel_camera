@@ -1,0 +1,22 @@
+{
+  "item.maid_travel_camera.travel_camera": "Travel Camera",
+  "item.maid_travel_camera.travel_photo": "Travel Photo",
+
+  "tooltip.maid_travel_camera.photo.traveling": "Traveling: %s elapsed / %s required",
+  "tooltip.maid_travel_camera.photo.location": "Travel Location: %s",
+  "tooltip.maid_travel_camera.photo.completed": "Travel Completed!",
+  "tooltip.maid_travel_camera.photo.missing_data": "Maid travel data missing",
+
+  "time.minutes_seconds": "%s min %s sec",
+  "time.seconds": "%s sec",
+
+  "travel_location.unknown": "Unknown Location",
+  "travel_location.debug": "Debug",
+  "travel_location.red_mansion": "Scarlet Mansion Garden",
+  "travel_location.bamboo_forest": "Lost Bamboo Forest",
+  "travel_location.hot_spring": "Yokai Hot Spring",
+  "travel_location.forest": "Forest",
+  "travel_location.desert": "Desert",
+  "travel_location.village": "Village",
+  "travel_location.nether": "Nether"
+}
